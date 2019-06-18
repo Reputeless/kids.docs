@@ -9,6 +9,14 @@ site_url: https://siv3d-for-kids.github.io/
 # Copyright
 copyright: Copyright (c) 2018 - present, Ryo Suzuki
 
-# Theme
 theme:
   name: 'material'
+  language: 'en'
+  favicon: 'assets/images/logo.png'
+  logo:
+    icon: 'tablet'
+  palette:
+    primary: 'lime'
+    accent: 'lime'
+  feature:
+    tabs: true
