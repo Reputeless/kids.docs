@@ -1,1 +1,14 @@
-site_name: My Docs
+site_dir: '../siv3d-for-kids.github.io'
+
+# Project information
+site_name: Siv3D for Kids
+site_description: "" 
+site_author: Ryo Suzuki
+site_url: https://siv3d-for-kids.github.io/
+
+# Copyright
+copyright: Copyright (c) 2018 - present, Ryo Suzuki
+
+# Theme
+theme:
+  name: 'material'
