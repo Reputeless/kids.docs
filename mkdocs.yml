@@ -16,7 +16,27 @@ theme:
   logo:
     icon: 'tablet'
   palette:
-    primary: 'lime'
-    accent: 'lime'
+    primary: 'light green'
+    accent: 'light green'
   feature:
     tabs: true
+extra:
+  search:
+    language: 'en, ja'
+    tokenizer: '[\s　、。，．がのをにへとでやかもる「」『』]+'
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/Reputeless'
+markdown_extensions:
+  - admonition
+  - codehilite
+  - fontawesome_markdown
+  - footnotes
+  - meta
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.superfences
+extra_css:
+  - "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
+  - kids_styles.css
+
