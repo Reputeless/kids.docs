@@ -40,3 +40,7 @@ extra_css:
   - "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
   - kids_styles.css
 
+nav:
+  - Siv3D for Kids: index.md
+  - イベント日程: events.md
+  - 謝辞: acknowledgement.md
