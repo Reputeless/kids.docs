@@ -8,7 +8,7 @@ Siv3D for Kids の最新版・フル機能を体験できるイベントの一�
 | 8/9       | 沖縄県 宜野湾市 沖縄国際大学      |                                                                        |
 | 8/7 - 8   | 東京都 千代田区 経済産業省       | 経済産業省 子どもデー                                                            |
 | 7/27 - 28 | 東京都 新宿区 早稲田大学        | [早稲田情報科学ジュニア・アカデミー](http://waseda.compsci.jp/2019summer/#Siv3D)        |
-| 7/25      | 京都府 京都市 東本願寺 しんらん交流館 | Tera school プログラミングワークショップ                                             |
+| 7/25      | 京都府 京都市 東本願寺 しんらん交流館 | [Tera school プログラミングワークショップ](https://www.teraschool.jp/2019%E5%B9%B4%E3%81%AE%E5%A4%8F%E4%BC%91%E3%81%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/) |
 | 6/7       | 石川県 金沢市 ITビジネスプラザ武蔵  | [CoderDojo Kanazawa](https://www.facebook.com/events/300747200877892/) |
 | 4/7       | 東京都 新宿区 早稲田大学        | [早稲田情報科学ジュニア・アカデミー](http://waseda.compsci.jp/2019spring/#s3)           |
 | 3/3       | 静岡県 静岡市 番町市民活動センター   | [CoderDojo 静岡](https://coderdojo-shizuoka.org/9th)                     |
