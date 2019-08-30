@@ -39,3 +39,8 @@ https://siv3d.booth.pm/items/1476917
 ![](images/105.png)
 
 ![](images/106.png)
+
+## 謝辞
+Siv3D for Kids は [公益財団法人 I-O DATA 財団](https://iodata-foundation.or.jp/) の助成を受けました。
+
+<a href="https://iodata-foundation.or.jp/" target= "_balnk"><img src="images/iozaidan_sp_logo_c.png" width = "320" style="box-shadow: 0 0 0 0; max-width: none; display: inline;"></a>
