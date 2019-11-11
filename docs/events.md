@@ -5,7 +5,7 @@ Siv3D for Kids を体験できるイベントの一覧です。参加方法は�
 | 日程        | 会場                   | イベント名                                                                  |
 |-----------|----------------------|------------------------------------------------------------------------|
 | 11/2 - 3 | 東京都 新宿区 早稲田大学       | 早稲田大学 理工展                                                                  |
-| 10/27      | 千葉県 柏市              |                                                                        |
+| 10/27      | 千葉県 柏市              | CoderDojo Kashiwa |
 | 8/11      | 沖縄県 石垣市              | TECH FOR ISHIGAKI プログラミング教室 |
 | 8/9       | 沖縄県 宜野湾市 沖縄国際大学      | [沖縄国際大学 小中学生・夏休みプログラミング体験](https://www.okiu.ac.jp/news/31712?fbclid=IwAR2ZLYpBUhXY0XWDXPgtXbqgs5tbhiWc5GfQZIVmArmagdaCU4HN8sgsaVU) |
 | 8/7 - 8   | 東京都 千代田区 経済産業省       | [経済産業省 子どもデー](https://www.ipa.go.jp/about/event/kidsday2019.html) |
